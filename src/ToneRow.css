@@ -1,0 +1,12 @@
+.ToneRow {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  justify-content: space-evenly;
+  align-items: center;
+}
+
+.Description {
+  font-size: small;
+  font-style: italic;
+}
